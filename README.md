@@ -1,0 +1,1 @@
+Path variable must be updated with the folder path of the scripts to execute the scripts from the terminal in any folder
