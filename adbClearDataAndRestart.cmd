@@ -1,0 +1,1 @@
+adb shell "pm clear com.myfirst.camera; am start com.myfirst.camera"
